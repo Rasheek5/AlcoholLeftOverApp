@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479496788160",
+    "project_id": "alcohol-leftover-app",
+    "storage_bucket": "alcohol-leftover-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479496788160:android:2240d80d880304aae5f525",
+        "android_client_info": {
+          "package_name": "com.alcoholleftoverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazfzG9HFljmpgBq1uzdqYtWBmTlZRMC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

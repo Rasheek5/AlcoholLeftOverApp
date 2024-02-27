@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig",
+  "preset": "react-native",
+  "setupFilesAfterEnv": ["@testing-library/jest-native/extend-expect"],
+  "moduleFileExtensions": [
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+  ],
+  "compilerOptions": {
+    "jsx": "react-jsx",
+  },
+  "transform":{},
+  "moduleNameMapper": "^@/(.*)$': '<rootDir>/src/$1",
+}

@@ -1,0 +1,17 @@
+export const colors = {
+  primaryBackground: '#FFFFFF',
+  primary: '#a50747',
+  secondary: '#234F68',
+  purpleNavy: '#53587A',
+  cultured: '#F5F4F8',
+  transparent: '#00000000',
+  black: '#000000',
+  charlestonGreen: '#262E2F',
+  middleBlueGreen: '#91D2D5',
+  watermelonRed: '#C83F3F',
+  gray: 'gray',
+  skyBlue: '#3f8df8',
+  red: '#C41E3A',
+  blue: 'blue',
+  venetianRed: '#ffefea',
+};
